@@ -1,0 +1,17 @@
+{
+  "name": "natours-api",
+  "version": "1.0.0",
+  "description": "node farm app",
+  "main": "index.js",
+  "scripts": {
+    "start": " nodemon index.js"
+  },
+  "author": "Amanpreet Singh",
+  "license": "ISC",
+  "dependencies": {
+    "slugify": "^1.6.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
